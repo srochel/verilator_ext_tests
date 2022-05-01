@@ -1,6 +1,7 @@
 [submodule "submodules/verilator"]
 	path = submodules/verilator
 	url = https://github.com/verilator/verilator.git
+	branch = develop-v5
 [submodule "submodules/example-systemverilog"]
 	path = submodules/example-systemverilog
 	url = https://github.com/verilator/example-systemverilog.git
